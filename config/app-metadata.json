@@ -1,0 +1,18 @@
+{
+  "project_metadata": {
+    "app_name": "Admin Analytics",
+    "app_name_status": "working_title",
+    "description": "A modular, configurable business administration platform with a reusable core and separate business domain modules.",
+    "repository": {
+      "host": "github.com",
+      "owner": "ajthr",
+      "name": "admin-analytics",
+      "visibility": "public"
+    },
+    "license": "Apache-2.0",
+    "copyright_holder": {
+      "name": "Ajith",
+      "email": "ajithr.dev@gmail.com"
+    }
+  }
+}

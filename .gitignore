@@ -1,0 +1,33 @@
+# Local source documents and private agent planning
+/dev-assets/
+
+# Secrets and local environment settings
+.env
+.env.*
+!.env.example
+!**/.env.example
+/secrets/
+*.pem
+*.key
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# JavaScript dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
